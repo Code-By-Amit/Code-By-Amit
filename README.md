@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Saini</h1>
 <h3 align="center">A Tech Enthusiastsic BCA Student.</h3>
 
-- 🌱 I’m currently learning **Mongodb And React**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **Javascript C++ ExpressJs**
 
