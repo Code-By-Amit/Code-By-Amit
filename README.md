@@ -1,12 +1,16 @@
-# 👋 Hi, I'm Amit Saini!
+# 👋 Hi, I'm Amit Saini!  
+I'm a **web developer** passionate about building interactive and efficient applications. With experience in **Frontend, and Backend technologies**, I enjoy turning ideas into reality. Currently, I'm diving deeper into **Full Stack Development (MERN Stack)** and exploring **React & Node.js**.
 
-# 💫 About Me:
+## 💫 About Me  
 
-I'm a **web developer** passionate about building interactive and efficient web applications.  
-With experience in **HTML, CSS, JavaScript, and backend technologies**, I enjoy turning ideas into reality through code.  
-Currently, I'm sharpening my skills in **Full Stack Development** and exploring **modern frameworks** like React and Node.js.  
+🔭 Currently working on **web projects & improving my full-stack skills**  
+👯 Looking to collaborate on **Intermediate-level open-source projects**   
+🌱 Currently learning **MERN Stack**  
+💬 Ask me about **JavaScript, Java, C++, Express, Node.js**  
+⚡ Fun fact: **Started coding to build a website—now I can't stop!**  
+📫 Reach me at **amitsaini95471@gmail.com**  
 
-🔭 I’m currently working on web projects and improving my frontend As Well As Backend Skills<br>👯 I’m looking to collaborate on beginner-friendly open-source projects<br>🤝 I’m looking for help with JavaScript and backend development<br>🌱 I’m currently learning Full Stack Web Development (MERN Stack)<br>💬 Ask me about HTML, CSS, JavaScript, Java, C++, Express, Node.js<br>⚡ Fun fact: I started coding to build my own website, and now I can't stop!<br>📫 How to reach me amitsaini95471@gmail.com 
+🚀 *Let's connect and build something awesome!*
 
 
 ## 🌐 Socials:
